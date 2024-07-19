@@ -1,4 +1,4 @@
-## Hey! My name is Carlos E. Espósito!
+## Hey! My name is Carlos E. Espósito! 🖐️
 
 ![Espósito GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosesposito22&show_icons=true&theme=dracula&count_private=true)
 
