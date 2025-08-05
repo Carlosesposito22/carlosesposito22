@@ -28,5 +28,5 @@
 <div> 
   <a href="https://www.linkedin.com/in/carlos-eduardo-esp%C3%B3sito-35227530a/" target="_blank"><img src="https://img.shields.io/badge/-🔗LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://instagram.com/carlosesposito22" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://drive.google.com/file/d/1bM-OCFP4KI90s79-cNWzH-cNZanByZzj/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/-📄Currículo-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"></a>
+  <a href="https://drive.google.com/file/d/1bM-OCFP4KI90s79-cNWzH-cNZanByZzj/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/-📄Currículo-A8B9CC?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"></a>
 </div>
