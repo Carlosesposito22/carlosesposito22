@@ -1,6 +1,8 @@
 ## Hey! My name is Carlos E. Espósito! 🖐️
 
+<!--  
 ![Espósito GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosesposito22&show_icons=true&theme=radical&cache_seconds=1800)
+-->
 
 📚 - Aspiring Computer Scientist at @CESAR School, currently proficient in the following technologies..
 
